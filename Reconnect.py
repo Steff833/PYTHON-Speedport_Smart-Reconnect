@@ -29,9 +29,9 @@
 ## CONFIG
 ##
 
-device_password  =  "PASSWORD"              # The device password for login
+device_password  =  "96714303"              # The device password for login
 speedport_url    =  "http://speedport.ip/"  # The URL to the Speedport Smart Configurator
-Sleeptime = 5                               # If the Reconnect don't work, change the number to 10 and then try again
+Sleeptime = 10                               # If the Reconnect don't work, change the number to 10 and then try again
 
 ##
 ## DO NOT CHANGE ANYTHING BELOW THIS LINE
